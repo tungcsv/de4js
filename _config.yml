@@ -7,7 +7,7 @@ url: https://lelinhtinh.github.io
 baseurl: /de4js
 license: MIT
 
-theme: jekyll-theme-architect
+theme: jekyll-theme-hacker
 show_downloads: false
 google_analytics: UA-106940288-1
 sass:
